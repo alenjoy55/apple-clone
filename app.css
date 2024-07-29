@@ -32,19 +32,14 @@ ul {
   .center{
         margin: auto;
         width: 60%;
-        left: 0px;
-        
-        
-  }
-  .p{
-    margin: auto;
-    width: 60%;
+        left: 0px;     
   }
   .op{
     opacity: 0.9;
   }
   .ipaad{
     position: absolute;
+    font-weight: bold;
     bottom: 80%;
     padding: auto;
     text-align: center;
@@ -72,9 +67,9 @@ ul {
     left: 46%;
     background-color: #fdf8f8;
   }
-  .a{
+   /* .a{
     text-decoration: none;
-  }
+  }  */
   .logo{
     width: 20px;
     height: 16px;
@@ -89,12 +84,61 @@ ul {
     width: 15px;
     height: 16px;
   }
-  .mac{
+  .vision{
     position: absolute;
     text-align: center;
-    width: 100%;
-    font-size: 50px;
+    color: rgb(29, 29, 29);
+    font-size: 70px;
     font-family: sans-serif;
+    width: 100%;
+    height: 100%;
+    
   }
+  .vision1{
+    width: 100%;
+    height: auto;
+  }
+  .grid{
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+  }
+  .macb{
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+
+  }
+  .watch{
+    padding-top: 20px;
+    width: 100%;
+    height: 100%;
+    padding-left: 20px;
+  }
+  .ii{
+    padding-top: 20px;
+    width: 100%;
+  height: 100%;
+  padding-left: 20px;
+}
+
+  .grid2{
+    padding-top: 20px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    max-width: 100%;
+  }
+  .icard{
+    padding-top: 20px;
+    width: 100%;
+  height: 100%;
+  padding-left: 20px;
+}
+
   
   
