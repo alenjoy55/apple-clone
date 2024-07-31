@@ -1,0 +1,32 @@
+.grid{
+    display: flex;
+    background-color: white;
+  }
+  .g1{
+    flex: 50%;
+    background-color: white;
+    padding: 20px;
+    height: auto;
+  }
+  .g2{
+    flex: 50%;
+    background-color: white;
+    padding: 20px;
+    height: auto;
+  }
+  .grid2{
+    display: flex;
+    background-color: white;
+  }
+.g3{
+  flex: 50%;
+  background-color: white;
+  padding: 20px;
+  height: auto;
+}  
+.g4{
+  flex: 50%;
+  background-color: white;
+  padding: 20px;
+  height: auto;
+}
